@@ -12,7 +12,7 @@ export default function Home() {
       <div className="">    
       <Menu  />
       </div>    
-      <h1 className="text-center font-bold text-white text-3xl">GFN AP2 Vorbereitung</h1>  
+      <h1 className="text-center font-bold text-white text-xl md:text-3xl ">GFN AP2 Vorbereitung</h1>  
 
       <div className="flex text-end ">
      <Button />
